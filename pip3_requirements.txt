@@ -1,0 +1,4 @@
+bs4==0.0.1
+tld==0.11.11
+tldextract==3.0.2
+requests==2.23.0
